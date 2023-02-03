@@ -24,6 +24,19 @@
   color: white;
 }
 
+.nav-item{
+  margin-right: 1rem;
+}
+
+.navbar{
+  background: rgba(132, 130, 134, 1);
+  color:white;
+}
+
+.navbar.colorChange{
+  background-color: rgba(132, 130, 134, 0.8);
+}
+
 .App-link {
   color: #61dafb;
 }
